@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Leetcode\Leetcode290\main.cpp(13,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\Leetcode\Leetcode290\main.cpp(21,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\Leetcode\Leetcode290\main.cpp(21,49): warning C4018: “<”: 有符号/无符号不匹配
+D:\Leetcode\Leetcode290\main.cpp(23,22): warning C4018: “<”: 有符号/无符号不匹配
+  Leetcode290.vcxproj -> D:\Leetcode\Leetcode290\Debug\Leetcode290.exe

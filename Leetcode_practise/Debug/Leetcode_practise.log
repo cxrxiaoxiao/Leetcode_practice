@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Leetcode\Leetcode_practise\main.cpp(4,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+D:\Leetcode\Leetcode_practise\Leetcode714.h(14,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\Leetcode\Leetcode_practise\Leetcode714.h(25,27): warning C4018: “<”: 有符号/无符号不匹配
+  Leetcode_practise.vcxproj -> D:\Leetcode\Leetcode_practise\Debug\Leetcode_practise.exe
